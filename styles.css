@@ -1,0 +1,60 @@
+body {
+      color: rgb(14, 14, 11);
+      background-image: url(https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQC9tzM13LZNeXntpiCr77pLG8a4uqxfQAWWFSKRlzctOu9rUIT);
+      margin: 80px;
+      font-family: "Jersey 10", sans-serif;
+}
+
+header {
+      border-bottom: solid 2px rgb(0, 0, 0);
+      padding: 15;
+      font-size: 89px;
+      color: rgb(0, 0, 0);
+}
+
+
+.aleluia {
+      background: rgb(255, 242, 55);
+      border-radius: 15px;
+      padding-bottom: 80px;
+      padding-top: 80px;
+      display: flex;
+      justify-content: center;
+}
+
+.imagina-legal {
+     margin-right: 80px;
+     padding: 20px;
+}
+
+h1 {
+    font-size: 90px;
+}
+
+p    {
+     font-size: 60px;
+}
+
+.o-gengar {
+    height: 200px;
+    width: 200px;
+}
+
+.OMG {
+    color:rgb(0, 0, 0)
+
+}
+
+.comprinhas {
+      background: rgb(255, 238, 3);
+      border-radius: 15px;
+      padding-bottom: 80px;
+      padding-top: 80px;
+      display: flex;
+      justify-content: center;
+}
+
+.gif {
+      padding: 50px;
+      
+}
